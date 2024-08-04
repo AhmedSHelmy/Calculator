@@ -9,5 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="dark_grey">#424242</color>
     <color name="light_grey">#E0E0E0</color>
-    <color name="orange">#FB8C00</color>
+    <color name="login">#DC4F3B</color>
 </resources>
